@@ -51,4 +51,3 @@ This project is based on coursework from the Harvey Mudd College Department of C
 ---
 
 Enjoy playing Spampede! If you encounter any issues or have questions, please open an issue in this repository.
-``` 
