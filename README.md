@@ -19,7 +19,7 @@ Spampede is a Java-based game inspired by the classic Snake game, where the play
    ```
 
 2. **Set Up the Project:**
-   - Open the project in your preferred Java Integrated Development Environment (IDE), such as Eclipse or IntelliJ IDEA.
+   - Open the project in your preferred Java Integrated Development Environment (IDE), such as Eclipse.
    - Ensure that all dependencies are properly configured within your IDE.
 
 ## Usage
@@ -36,18 +36,3 @@ Spampede is a Java-based game inspired by the classic Snake game, where the play
      - `r` - Reverse Direction
      - `a` - Toggle AI Mode
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request. Please ensure that your contributions align with the project's coding standards and conventions.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-This project is based on coursework from the Harvey Mudd College Department of Computer Science. Special thanks to the course instructors and teaching assistants for their guidance and support.
-
----
-
-Enjoy playing Spampede! If you encounter any issues or have questions, please open an issue in this repository.
